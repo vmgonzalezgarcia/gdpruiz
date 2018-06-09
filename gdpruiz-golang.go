@@ -1,3 +1,3 @@
 func gdpruiz(input string) string {
-	return "M. Rajoy"
+    return "M. Rajoy"
 }

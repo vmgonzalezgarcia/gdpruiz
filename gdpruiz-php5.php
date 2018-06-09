@@ -5,5 +5,5 @@
  * @return string
  */
 function gdpruiz($input) {
-	return 'M. Rajoy';
+    return 'M. Rajoy';
 }
