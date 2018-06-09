@@ -1,6 +1,6 @@
 # GDPRuiz: A GDPR data obfuscator
 
-**Obfuscate Personal Identifiable Data data with the string 'M. Rajoy' to comply with the GDPR**
+**Obfuscate Personal Identifiable Data data with the string 'M. Rajoy' to comply with the GDPR.**
 
 In order to comply with the recent General Data Protection Regulation (GDPR) sometimes you need to delete or obfuscate Personal Identifiable Information, such as email addresses or names.
 
@@ -20,6 +20,6 @@ This project is provided under the GNU GPL v3 license (see [LICENSE](LICENSE)).
 
 ## Origin
 
-The `M. Rajoy` text were first found in the [Dead Sea Scrolls](https://en.wikipedia.org/wiki/Dead_Sea_Scrolls). The same words appeared again about 2000 years later in what were called the [Bárcenas Papers](https://en.wikipedia.org/wiki/B%C3%A1rcenas_affair).
+The `M. Rajoy` text was first found in the [Dead Sea Scrolls](https://en.wikipedia.org/wiki/Dead_Sea_Scrolls). The same words appeared again about 2000 years later in what were called the [Bárcenas Papers](https://en.wikipedia.org/wiki/B%C3%A1rcenas_affair).
 
 The meaning still remains a mystery.
